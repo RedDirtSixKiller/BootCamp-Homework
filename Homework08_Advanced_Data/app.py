@@ -64,17 +64,13 @@ def welcome():
     </li>
     <br>
     <li>
-        Return a JSON list of tmin, tmax, tavg for the dates greater than or equal to the date provided:
-        <br>Replace &ltstart&gt with a date in Year-Month-Day format.
+        JSON list of tmin, tmax, tavg for the dates greater than or equal to the date provided:
         <br>
         <a href="/api/v1.0/2017-02-28">/api/v1.0/2017-02-28</a>
     </li>
     <br>
     <li>
-        Return a JSON list of tmin, tmax, tavg for the dates in range of start date and end date inclusive:
-        <br>
-        Replace &ltstart&gt and &ltend&gt with a date in Year-Month-Day format.
-        <br>
+        JSON list of tmin, tmax, tavg for the dates in range of start date and end date inclusive:
         <br>
         <a href="/api/v1.0/2017-02-28/2017-03-05">/api/v1.0/2017-02-28/2017-03-05</a>
     </li>
