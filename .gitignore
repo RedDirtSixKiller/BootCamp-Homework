@@ -7,3 +7,4 @@ config.py
 .ipynb_checkpoints/
 _pychache_/
 
+ETL_Project/data
